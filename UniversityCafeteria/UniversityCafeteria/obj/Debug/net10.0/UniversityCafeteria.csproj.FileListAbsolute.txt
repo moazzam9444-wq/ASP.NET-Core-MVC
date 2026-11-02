@@ -121,7 +121,6 @@ C:\Users\USER\Desktop\ASP.NET-Core-MVC\UniversityCafeteria\UniversityCafeteria\o
 C:\Users\USER\Desktop\ASP.NET-Core-MVC\UniversityCafeteria\UniversityCafeteria\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\USER\Desktop\ASP.NET-Core-MVC\UniversityCafeteria\UniversityCafeteria\obj\Debug\net10.0\scopedcss\bundle\UniversityCafeteria.styles.css
 C:\Users\USER\Desktop\ASP.NET-Core-MVC\UniversityCafeteria\UniversityCafeteria\obj\Debug\net10.0\scopedcss\projectbundle\UniversityCafeteria.bundle.scp.css
-C:\Users\USER\Desktop\ASP.NET-Core-MVC\UniversityCafeteria\UniversityCafeteria\obj\Debug\net10.0\compressed\pvshre2o0a-{0}-zn40snw3l4-zn40snw3l4.gz
 C:\Users\USER\Desktop\ASP.NET-Core-MVC\UniversityCafeteria\UniversityCafeteria\obj\Debug\net10.0\compressed\en2xwb3oxd-{0}-61n19gt1b8-61n19gt1b8.gz
 C:\Users\USER\Desktop\ASP.NET-Core-MVC\UniversityCafeteria\UniversityCafeteria\obj\Debug\net10.0\compressed\asxgnsrzgl-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 C:\Users\USER\Desktop\ASP.NET-Core-MVC\UniversityCafeteria\UniversityCafeteria\obj\Debug\net10.0\compressed\q8r31ipfcr-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -197,3 +196,5 @@ C:\Users\USER\Desktop\ASP.NET-Core-MVC\UniversityCafeteria\UniversityCafeteria\o
 C:\Users\USER\Desktop\ASP.NET-Core-MVC\UniversityCafeteria\UniversityCafeteria\obj\Debug\net10.0\UniversityCafeteria.genruntimeconfig.cache
 C:\Users\USER\Desktop\ASP.NET-Core-MVC\UniversityCafeteria\UniversityCafeteria\obj\Debug\net10.0\ref\UniversityCafeteria.dll
 C:\Users\USER\Desktop\ASP.NET-Core-MVC\UniversityCafeteria\UniversityCafeteria\obj\Debug\net10.0\Universi.3D4266FD.Up2Date
+C:\Users\USER\Desktop\ASP.NET-Core-MVC\UniversityCafeteria\UniversityCafeteria\obj\Debug\net10.0\compressed\8xtetng0d4-{0}-d0k5u85uib-d0k5u85uib.gz
+C:\Users\USER\Desktop\ASP.NET-Core-MVC\UniversityCafeteria\UniversityCafeteria\obj\Debug\net10.0\compressed\pvshre2o0a-{0}-cirb5pj4nz-cirb5pj4nz.gz

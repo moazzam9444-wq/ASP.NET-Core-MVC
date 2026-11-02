@@ -1,0 +1,23 @@
+﻿@{
+    Layout = "_SimpleLayout";
+}
+@* C:\Users\USER\Desktop\ASP.NET-Core-MVC\UniversityCafeteriaTask2\UniversityCafeteria\Views\Shared\_SimpleLayout.cshtml *@
+<h1>The Suppliers</h1>
+@{
+    string[] SuplliersArr = { "Fresh-Food-Company", "Happy-Drinks-Company", "Daily-Supplies-Company" };
+}
+@foreach(string item in SuplliersArr)
+{
+    <p>@item</p>
+}
+@if (SuplliersArr.Length>= 3)
+{
+    <p>We have enough suppliers.</p>
+}
+else
+{
+    <p>We need more suppliers.</p>
+}
+
+
+<a asp-controller="Cafeteria" asp-action="SupplyStatus">Here You Can Find Supply Status</a>
