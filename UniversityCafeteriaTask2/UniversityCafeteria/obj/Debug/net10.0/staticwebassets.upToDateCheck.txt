@@ -1,3 +1,4 @@
+wwwroot\css\Products.css
 wwwroot\css\site.css
 wwwroot\css\SupplyStatus.css
 wwwroot\favicon.ico
@@ -62,10 +63,8 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
-wwwroot\css\Products.css
+C:\Users\USER\Desktop\ASP.NET-Core-MVC\UniversityCafeteriaTask2\UniversityCafeteria\wwwroot\lib\jquery\LICENSE.txt
 C:\Users\USER\Desktop\ASP.NET-Core-MVC\UniversityCafeteriaTask2\UniversityCafeteria\wwwroot\css\site.css
-C:\Users\USER\Desktop\ASP.NET-Core-MVC\UniversityCafeteriaTask2\UniversityCafeteria\wwwroot\css\SupplyStatus.css
-C:\Users\USER\Desktop\ASP.NET-Core-MVC\UniversityCafeteriaTask2\UniversityCafeteria\wwwroot\favicon.ico
 C:\Users\USER\Desktop\ASP.NET-Core-MVC\UniversityCafeteriaTask2\UniversityCafeteria\wwwroot\js\site.js
 C:\Users\USER\Desktop\ASP.NET-Core-MVC\UniversityCafeteriaTask2\UniversityCafeteria\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 C:\Users\USER\Desktop\ASP.NET-Core-MVC\UniversityCafeteriaTask2\UniversityCafeteria\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
@@ -125,5 +124,6 @@ C:\Users\USER\Desktop\ASP.NET-Core-MVC\UniversityCafeteriaTask2\UniversityCafete
 C:\Users\USER\Desktop\ASP.NET-Core-MVC\UniversityCafeteriaTask2\UniversityCafeteria\wwwroot\lib\jquery\dist\jquery.slim.js
 C:\Users\USER\Desktop\ASP.NET-Core-MVC\UniversityCafeteriaTask2\UniversityCafeteria\wwwroot\lib\jquery\dist\jquery.slim.min.js
 C:\Users\USER\Desktop\ASP.NET-Core-MVC\UniversityCafeteriaTask2\UniversityCafeteria\wwwroot\lib\jquery\dist\jquery.slim.min.map
-C:\Users\USER\Desktop\ASP.NET-Core-MVC\UniversityCafeteriaTask2\UniversityCafeteria\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\USER\Desktop\ASP.NET-Core-MVC\UniversityCafeteriaTask2\UniversityCafeteria\wwwroot\favicon.ico
+C:\Users\USER\Desktop\ASP.NET-Core-MVC\UniversityCafeteriaTask2\UniversityCafeteria\wwwroot\css\SupplyStatus.css
 C:\Users\USER\Desktop\ASP.NET-Core-MVC\UniversityCafeteriaTask2\UniversityCafeteria\wwwroot\css\Products.css

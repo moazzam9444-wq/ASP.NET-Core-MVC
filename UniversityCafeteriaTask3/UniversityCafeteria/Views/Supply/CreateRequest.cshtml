@@ -1,0 +1,70 @@
+﻿@{
+    Layout = "_SupplyLayout";
+}
+
+<div class="container mt-5">
+    <div class="card shadow border-0 rounded-4 mx-auto"
+         style="max-width: 650px;">
+
+        <div class="card-header bg-primary text-white p-4 rounded-top-4">
+            <h3 class="mb-1">Create Supply Request</h3>
+            <p class="mb-0">University Cafeteria</p>
+        </div>
+
+        <div class="card-body p-4">
+
+            <form method="post" action="/Supply/SubmitRequest">
+
+                
+                <div class="mb-3">
+                    <label class="form-label">Employee Name</label>
+                    <input type="text"
+                           name="EmployeeName"
+                           class="form-control"
+                           placeholder="Enter employee name">
+                </div>
+
+                
+                <div class="mb-3">
+                    <label class="form-label">Product Name</label>
+                    <select name="ProductName" class="form-select">
+                        <option value="">Select Product</option>
+                        <option value="Water">Water</option>
+                        <option value="Orange Juice">Orange Juice</option>
+                        <option value="Coffee">Coffee</option>
+                        <option value="Sandwich">Sandwich</option>
+                        <option value="Chocolate">Chocolate</option>
+                    </select>
+                </div>
+
+                
+                <div class="mb-3">
+                    <label class="form-label">Quantity</label>
+                    <input type="number"
+                           name="Quantity"
+                           class="form-control"
+                           min="1"
+                           required
+                           placeholder="Enter quantity">
+                </div>
+
+               
+                <div class="mb-4">
+                    <label class="form-label">Required Date</label>
+                    <input type="date"
+                           name="RequiredDate"
+                           class="form-control">
+                </div>
+
+                
+                <button type="submit"
+                        class="btn btn-primary w-100 py-2">
+                    Submit Request
+                </button>
+                
+            </form>
+            
+
+        </div>
+    </div>
+</div>
