@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaTask4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDDF36A-7721-A11A-9302-0FB0783DA5CF}|UniversityCafeteria\\UniversityCafeteria.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\universitycafeteriatask4\\universitycafeteria\\views\\supplyrequest\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBDDF36A-7721-A11A-9302-0FB0783DA5CF}|UniversityCafeteria\\UniversityCafeteria.csproj|solutionrelative:universitycafeteria\\views\\supplyrequest\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDDF36A-7721-A11A-9302-0FB0783DA5CF}|UniversityCafeteria\\UniversityCafeteria.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\universitycafeteriatask4\\universitycafeteria\\views\\shared\\_supplylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBDDF36A-7721-A11A-9302-0FB0783DA5CF}|UniversityCafeteria\\UniversityCafeteria.csproj|solutionrelative:universitycafeteria\\views\\shared\\_supplylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDDF36A-7721-A11A-9302-0FB0783DA5CF}|UniversityCafeteria\\UniversityCafeteria.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\universitycafeteriatask4\\universitycafeteria\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBDDF36A-7721-A11A-9302-0FB0783DA5CF}|UniversityCafeteria\\UniversityCafeteria.csproj|solutionrelative:universitycafeteria\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDDF36A-7721-A11A-9302-0FB0783DA5CF}|UniversityCafeteria\\UniversityCafeteria.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\universitycafeteriatask4\\universitycafeteria\\views\\shared\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBDDF36A-7721-A11A-9302-0FB0783DA5CF}|UniversityCafeteria\\UniversityCafeteria.csproj|solutionrelative:universitycafeteria\\views\\shared\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDDF36A-7721-A11A-9302-0FB0783DA5CF}|UniversityCafeteria\\UniversityCafeteria.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\universitycafeteriatask4\\universitycafeteria\\views\\supplyrequest\\myrequests.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBDDF36A-7721-A11A-9302-0FB0783DA5CF}|UniversityCafeteria\\UniversityCafeteria.csproj|solutionrelative:universitycafeteria\\views\\supplyrequest\\myrequests.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDDF36A-7721-A11A-9302-0FB0783DA5CF}|UniversityCafeteria\\UniversityCafeteria.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\universitycafeteriatask4\\universitycafeteria\\views\\supplyrequest\\review.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBDDF36A-7721-A11A-9302-0FB0783DA5CF}|UniversityCafeteria\\UniversityCafeteria.csproj|solutionrelative:universitycafeteria\\views\\supplyrequest\\review.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDDF36A-7721-A11A-9302-0FB0783DA5CF}|UniversityCafeteria\\UniversityCafeteria.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\universitycafeteriatask4\\universitycafeteria\\controllers\\supplyrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBDDF36A-7721-A11A-9302-0FB0783DA5CF}|UniversityCafeteria\\UniversityCafeteria.csproj|solutionrelative:universitycafeteria\\controllers\\supplyrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDDF36A-7721-A11A-9302-0FB0783DA5CF}|UniversityCafeteria\\UniversityCafeteria.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\universitycafeteriatask4\\universitycafeteria\\models\\supplyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBDDF36A-7721-A11A-9302-0FB0783DA5CF}|UniversityCafeteria\\UniversityCafeteria.csproj|solutionrelative:universitycafeteria\\models\\supplyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDDF36A-7721-A11A-9302-0FB0783DA5CF}|UniversityCafeteria\\UniversityCafeteria.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\universitycafeteriatask4\\universitycafeteria\\models\\supplyitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBDDF36A-7721-A11A-9302-0FB0783DA5CF}|UniversityCafeteria\\UniversityCafeteria.csproj|solutionrelative:universitycafeteria\\models\\supplyitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDDF36A-7721-A11A-9302-0FB0783DA5CF}|UniversityCafeteria\\UniversityCafeteria.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\universitycafeteriatask4\\universitycafeteria\\views\\supplyrequest\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DBDDF36A-7721-A11A-9302-0FB0783DA5CF}|UniversityCafeteria\\UniversityCafeteria.csproj|solutionrelative:universitycafeteria\\views\\supplyrequest\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDDF36A-7721-A11A-9302-0FB0783DA5CF}|UniversityCafeteria\\UniversityCafeteria.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\universitycafeteriatask4\\universitycafeteria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBDDF36A-7721-A11A-9302-0FB0783DA5CF}|UniversityCafeteria\\UniversityCafeteria.csproj|solutionrelative:universitycafeteria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SupplyRequestController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaTask4\\UniversityCafeteria\\Controllers\\SupplyRequestController.cs",
+              "RelativeDocumentMoniker": "UniversityCafeteria\\Controllers\\SupplyRequestController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaTask4\\UniversityCafeteria\\Controllers\\SupplyRequestController.cs",
+              "RelativeToolTip": "UniversityCafeteria\\Controllers\\SupplyRequestController.cs",
+              "ViewState": "AgIAAAMBAAAAAAAAAAA+wA0BAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T11:45:39.543Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaTask4\\UniversityCafeteria\\Views\\SupplyRequest\\About.cshtml",
+              "RelativeDocumentMoniker": "UniversityCafeteria\\Views\\SupplyRequest\\About.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaTask4\\UniversityCafeteria\\Views\\SupplyRequest\\About.cshtml",
+              "RelativeToolTip": "UniversityCafeteria\\Views\\SupplyRequest\\About.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAQwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-04T18:03:10.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_SupplyLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaTask4\\UniversityCafeteria\\Views\\Shared\\_SupplyLayout.cshtml",
+              "RelativeDocumentMoniker": "UniversityCafeteria\\Views\\Shared\\_SupplyLayout.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaTask4\\UniversityCafeteria\\Views\\Shared\\_SupplyLayout.cshtml",
+              "RelativeToolTip": "UniversityCafeteria\\Views\\Shared\\_SupplyLayout.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAuwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-04T18:00:28.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaTask4\\UniversityCafeteria\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "UniversityCafeteria\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaTask4\\UniversityCafeteria\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "UniversityCafeteria\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-04T18:00:25.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_MainLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaTask4\\UniversityCafeteria\\Views\\Shared\\_MainLayout.cshtml",
+              "RelativeDocumentMoniker": "UniversityCafeteria\\Views\\Shared\\_MainLayout.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaTask4\\UniversityCafeteria\\Views\\Shared\\_MainLayout.cshtml",
+              "RelativeToolTip": "UniversityCafeteria\\Views\\Shared\\_MainLayout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-04T18:00:06.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyRequests.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaTask4\\UniversityCafeteria\\Views\\SupplyRequest\\MyRequests.cshtml",
+              "RelativeDocumentMoniker": "UniversityCafeteria\\Views\\SupplyRequest\\MyRequests.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaTask4\\UniversityCafeteria\\Views\\SupplyRequest\\MyRequests.cshtml",
+              "RelativeToolTip": "UniversityCafeteria\\Views\\SupplyRequest\\MyRequests.cshtml",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAQwFQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-04T17:56:44.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SupplyRequest.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaTask4\\UniversityCafeteria\\Models\\SupplyRequest.cs",
+              "RelativeDocumentMoniker": "UniversityCafeteria\\Models\\SupplyRequest.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaTask4\\UniversityCafeteria\\Models\\SupplyRequest.cs",
+              "RelativeToolTip": "UniversityCafeteria\\Models\\SupplyRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T17:51:50.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Review.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaTask4\\UniversityCafeteria\\Views\\SupplyRequest\\Review.cshtml",
+              "RelativeDocumentMoniker": "UniversityCafeteria\\Views\\SupplyRequest\\Review.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaTask4\\UniversityCafeteria\\Views\\SupplyRequest\\Review.cshtml",
+              "RelativeToolTip": "UniversityCafeteria\\Views\\SupplyRequest\\Review.cshtml",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAQwIEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-04T17:29:16.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaTask4\\UniversityCafeteria\\Program.cs",
+              "RelativeDocumentMoniker": "UniversityCafeteria\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaTask4\\UniversityCafeteria\\Program.cs",
+              "RelativeToolTip": "UniversityCafeteria\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T17:08:46.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SupplyItem.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaTask4\\UniversityCafeteria\\Models\\SupplyItem.cs",
+              "RelativeDocumentMoniker": "UniversityCafeteria\\Models\\SupplyItem.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaTask4\\UniversityCafeteria\\Models\\SupplyItem.cs",
+              "RelativeToolTip": "UniversityCafeteria\\Models\\SupplyItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T12:34:03.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaTask4\\UniversityCafeteria\\Views\\SupplyRequest\\Index.cshtml",
+              "RelativeDocumentMoniker": "UniversityCafeteria\\Views\\SupplyRequest\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaTask4\\UniversityCafeteria\\Views\\SupplyRequest\\Index.cshtml",
+              "RelativeToolTip": "UniversityCafeteria\\Views\\SupplyRequest\\Index.cshtml",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAuwJYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-04T11:57:48.746Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+﻿@{
+    Layout = "_SupplyLayout";
+}
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["Message"]
+    </div>
+}

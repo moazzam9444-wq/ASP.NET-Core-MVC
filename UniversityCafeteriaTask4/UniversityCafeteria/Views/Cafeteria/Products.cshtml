@@ -1,0 +1,21 @@
+﻿@section StylesProduct {
+    <link rel="stylesheet" href="~/css/Products.css" />
+}
+@section Scripts{
+    <script>
+        alert("This Is The Products")
+    </script>
+}
+
+@* Water, Orange Juice, Coffee, Sandwich, Chocolate. *@
+<h1>Hi Here You Can Find Our Products</h1>
+@{
+    string[] arr = { "Water", "Orange_Juice", "Coffee", "Sandwich", "Chocolate" };
+}
+<ul>
+@foreach(string item in arr)
+{
+        <li>@item</li> 
+}
+</ul>
+<a asp-controller="Cafeteria" asp-action="Suppliers">Here You Can Find The Suppliers</a>

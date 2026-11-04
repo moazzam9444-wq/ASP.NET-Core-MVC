@@ -1,0 +1,88 @@
+﻿
+@model List<UniversityCafeteria.Models.SupplyRequest>
+
+@{
+    ViewData["Title"] = "My Requests";
+}
+
+<div class="container mt-5">
+
+    <div class="card shadow">
+
+        <div class="card-header bg-primary text-white">
+            <h4 class="mb-0">My Confirmed Requests</h4>
+        </div>
+
+        <div class="card-body">
+
+            @if (TempData["Success"] != null)
+            {
+                <div class="alert alert-success">
+                    @TempData["Success"]
+                </div>
+            }
+
+            @if (Model == null || Model.Count == 0)
+            {
+                <div class="alert alert-warning">
+                    No confirmed requests found.
+                </div>
+            }
+            else
+            {
+                <div class="table-responsive">
+                    <table class="table table-bordered table-striped table-hover text-center">
+
+                        <thead class="table-dark">
+                            <tr>
+                                <th>Request ID</th>
+                                <th>Products</th>
+                                <th>Subtotal</th>
+                                <th>Priority Fee</th>
+                                <th>Discount</th>
+                                <th>Final Total</th>
+                                <th>Status</th>
+                            </tr>
+                        </thead>
+
+                        <tbody>
+
+                            @foreach (var request in Model)
+                            {
+                                <tr>
+                                    <td>@request.RequestId</td>
+
+                                    <td>@request.ProductCount</td>
+
+                                    <td>@request.Subtotal.ToString("0.00") JD</td>
+
+                                    <td>@request.PriorityFee.ToString("0.00") JD</td>
+
+                                    <td>@request.Discount.ToString("0.00") JD</td>
+
+                                    <td class="fw-bold text-success">
+                                        @request.FinalTotal.ToString("0.00") JD
+                                    </td>
+
+                                    <td>
+                                        <span class="badge bg-success">
+                                            @request.Status
+                                        </span>
+                                    </td>
+                                </tr>
+                            }
+
+                        </tbody>
+                    </table>
+                </div>
+            }
+
+            <a href="@Url.Action("Index", "SupplyRequest")"
+               class="btn btn-primary mt-3">
+                Create New Request
+            </a>
+
+        </div>
+    </div>
+
+</div>

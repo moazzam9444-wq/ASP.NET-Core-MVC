@@ -1,0 +1,11 @@
+﻿@{
+    Layout = "_SupplyLayout";
+}
+<h1>@ViewBag.Title</h1>
+<h2>@ViewBag.NumberOfSuppliers</h2>
+<br>
+<ul class="list-group">
+    @foreach(string item in ViewBag.Suppliers){
+  <li class="list-group-item list-group-item-primary">@item</li>
+    }
+</ul>
