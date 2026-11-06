@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\CafeteriaManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34D43FEB-7D1A-4AD2-BC6A-6034484D20BA}|CafeteriaManagementSystem\\CafeteriaManagementSystem.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\cafeteriamanagementsystem\\cafeteriamanagementsystem\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D43FEB-7D1A-4AD2-BC6A-6034484D20BA}|CafeteriaManagementSystem\\CafeteriaManagementSystem.csproj|solutionrelative:cafeteriamanagementsystem\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D43FEB-7D1A-4AD2-BC6A-6034484D20BA}|CafeteriaManagementSystem\\CafeteriaManagementSystem.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\cafeteriamanagementsystem\\cafeteriamanagementsystem\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D43FEB-7D1A-4AD2-BC6A-6034484D20BA}|CafeteriaManagementSystem\\CafeteriaManagementSystem.csproj|solutionrelative:cafeteriamanagementsystem\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D43FEB-7D1A-4AD2-BC6A-6034484D20BA}|CafeteriaManagementSystem\\CafeteriaManagementSystem.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\cafeteriamanagementsystem\\cafeteriamanagementsystem\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D43FEB-7D1A-4AD2-BC6A-6034484D20BA}|CafeteriaManagementSystem\\CafeteriaManagementSystem.csproj|solutionrelative:cafeteriamanagementsystem\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D43FEB-7D1A-4AD2-BC6A-6034484D20BA}|CafeteriaManagementSystem\\CafeteriaManagementSystem.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\cafeteriamanagementsystem\\cafeteriamanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{34D43FEB-7D1A-4AD2-BC6A-6034484D20BA}|CafeteriaManagementSystem\\CafeteriaManagementSystem.csproj|solutionrelative:cafeteriamanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D43FEB-7D1A-4AD2-BC6A-6034484D20BA}|CafeteriaManagementSystem\\CafeteriaManagementSystem.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\cafeteriamanagementsystem\\cafeteriamanagementsystem\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D43FEB-7D1A-4AD2-BC6A-6034484D20BA}|CafeteriaManagementSystem\\CafeteriaManagementSystem.csproj|solutionrelative:cafeteriamanagementsystem\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D43FEB-7D1A-4AD2-BC6A-6034484D20BA}|CafeteriaManagementSystem\\CafeteriaManagementSystem.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\cafeteriamanagementsystem\\cafeteriamanagementsystem\\models\\purchaseorderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D43FEB-7D1A-4AD2-BC6A-6034484D20BA}|CafeteriaManagementSystem\\CafeteriaManagementSystem.csproj|solutionrelative:cafeteriamanagementsystem\\models\\purchaseorderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D43FEB-7D1A-4AD2-BC6A-6034484D20BA}|CafeteriaManagementSystem\\CafeteriaManagementSystem.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\cafeteriamanagementsystem\\cafeteriamanagementsystem\\models\\purchaseorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D43FEB-7D1A-4AD2-BC6A-6034484D20BA}|CafeteriaManagementSystem\\CafeteriaManagementSystem.csproj|solutionrelative:cafeteriamanagementsystem\\models\\purchaseorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D43FEB-7D1A-4AD2-BC6A-6034484D20BA}|CafeteriaManagementSystem\\CafeteriaManagementSystem.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\cafeteriamanagementsystem\\cafeteriamanagementsystem\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D43FEB-7D1A-4AD2-BC6A-6034484D20BA}|CafeteriaManagementSystem\\CafeteriaManagementSystem.csproj|solutionrelative:cafeteriamanagementsystem\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\CafeteriaManagementSystem\\CafeteriaManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\CafeteriaManagementSystem\\CafeteriaManagementSystem\\appsettings.json",
+              "RelativeToolTip": "CafeteriaManagementSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-06T14:55:18.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PurchaseOrder.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\CafeteriaManagementSystem\\CafeteriaManagementSystem\\Models\\PurchaseOrder.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystem\\Models\\PurchaseOrder.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\CafeteriaManagementSystem\\CafeteriaManagementSystem\\Models\\PurchaseOrder.cs",
+              "RelativeToolTip": "CafeteriaManagementSystem\\Models\\PurchaseOrder.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T14:51:47.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\CafeteriaManagementSystem\\CafeteriaManagementSystem\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystem\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\CafeteriaManagementSystem\\CafeteriaManagementSystem\\Models\\Product.cs",
+              "RelativeToolTip": "CafeteriaManagementSystem\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T14:51:43.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\CafeteriaManagementSystem\\CafeteriaManagementSystem\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystem\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\CafeteriaManagementSystem\\CafeteriaManagementSystem\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "CafeteriaManagementSystem\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T14:51:36.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\CafeteriaManagementSystem\\CafeteriaManagementSystem\\Models\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystem\\Models\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\CafeteriaManagementSystem\\CafeteriaManagementSystem\\Models\\MyDbContext.cs",
+              "RelativeToolTip": "CafeteriaManagementSystem\\Models\\MyDbContext.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAIwGYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T14:51:15.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PurchaseOrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\CafeteriaManagementSystem\\CafeteriaManagementSystem\\Models\\PurchaseOrderItem.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystem\\Models\\PurchaseOrderItem.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\CafeteriaManagementSystem\\CafeteriaManagementSystem\\Models\\PurchaseOrderItem.cs",
+              "RelativeToolTip": "CafeteriaManagementSystem\\Models\\PurchaseOrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T14:51:54.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\CafeteriaManagementSystem\\CafeteriaManagementSystem\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystem\\Models\\Supplier.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\CafeteriaManagementSystem\\CafeteriaManagementSystem\\Models\\Supplier.cs",
+              "RelativeToolTip": "CafeteriaManagementSystem\\Models\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T14:51:57.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\CafeteriaManagementSystem\\CafeteriaManagementSystem\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystem\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\CafeteriaManagementSystem\\CafeteriaManagementSystem\\Models\\Category.cs",
+              "RelativeToolTip": "CafeteriaManagementSystem\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T14:51:34.211Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
