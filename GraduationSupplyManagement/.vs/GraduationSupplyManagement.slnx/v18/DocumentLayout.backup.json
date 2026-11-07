@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\GraduationSupplyManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8AF1A1-7A5D-22E5-7C6F-48FAA418E672}|GraduationSupplyManagement\\GraduationSupplyManagement.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\graduationsupplymanagement\\graduationsupplymanagement\\migrations\\20261107134545_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8AF1A1-7A5D-22E5-7C6F-48FAA418E672}|GraduationSupplyManagement\\GraduationSupplyManagement.csproj|solutionrelative:graduationsupplymanagement\\migrations\\20261107134545_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8AF1A1-7A5D-22E5-7C6F-48FAA418E672}|GraduationSupplyManagement\\GraduationSupplyManagement.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\graduationsupplymanagement\\graduationsupplymanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8AF1A1-7A5D-22E5-7C6F-48FAA418E672}|GraduationSupplyManagement\\GraduationSupplyManagement.csproj|solutionrelative:graduationsupplymanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8AF1A1-7A5D-22E5-7C6F-48FAA418E672}|GraduationSupplyManagement\\GraduationSupplyManagement.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\graduationsupplymanagement\\graduationsupplymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8AF1A1-7A5D-22E5-7C6F-48FAA418E672}|GraduationSupplyManagement\\GraduationSupplyManagement.csproj|solutionrelative:graduationsupplymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20261107134545_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\GraduationSupplyManagement\\GraduationSupplyManagement\\Migrations\\20261107134545_InitialCreate.cs",
+              "RelativeDocumentMoniker": "GraduationSupplyManagement\\Migrations\\20261107134545_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\GraduationSupplyManagement\\GraduationSupplyManagement\\Migrations\\20261107134545_InitialCreate.cs",
+              "RelativeToolTip": "GraduationSupplyManagement\\Migrations\\20261107134545_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T13:45:46.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\GraduationSupplyManagement\\GraduationSupplyManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "GraduationSupplyManagement\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\GraduationSupplyManagement\\GraduationSupplyManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "GraduationSupplyManagement\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T13:43:55.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\GraduationSupplyManagement\\GraduationSupplyManagement\\Program.cs",
+              "RelativeDocumentMoniker": "GraduationSupplyManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\GraduationSupplyManagement\\GraduationSupplyManagement\\Program.cs",
+              "RelativeToolTip": "GraduationSupplyManagement\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswBwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T13:41:59.582Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
