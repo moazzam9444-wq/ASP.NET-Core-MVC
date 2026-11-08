@@ -1,0 +1,32 @@
+﻿@model List<Product>
+
+<div class="container mt-5">
+    <h2>Products List</h2>
+
+    <table class="table table-bordered table-striped">
+        <thead class="table-dark">
+            <tr>
+                
+                <th>Name</th>
+                <th>Price</th>
+                <th>Quantity</th>
+                <th>Category ID</th>
+                <th>Supplier ID</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    
+                    <td>@item.Name</td>
+                    <td>@item.Price</td>
+                    <td>@item.Quantity</td>
+                    <td>@item.CategoryId</td>
+                    <td>@item.SupplierId</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
