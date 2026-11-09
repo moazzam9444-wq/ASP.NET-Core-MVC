@@ -1,0 +1,20 @@
+﻿
+@model Product
+
+<h2>Product Details</h2>
+
+<h3>Name: @Model.Name</h3>
+<h4>Description: @Model.Description</h4>
+<h4>Price: @Model.Price</h4>
+<h4>Quantity: @Model.Quantity</h4>
+<h4>Category: @Model.Category?.Name</h4>
+<h4>Supplier: @Model.Supplier?.Name</h4>
+
+@if (Model.Quantity < 5)
+{
+    <p class="text-danger">Low Stock</p>
+}
+
+<a href="/Product/Index" class="btn btn-secondary">
+    Back
+</a>

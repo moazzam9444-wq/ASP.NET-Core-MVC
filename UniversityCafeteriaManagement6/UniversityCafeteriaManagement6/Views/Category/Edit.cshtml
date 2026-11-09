@@ -1,0 +1,18 @@
+﻿@model Category
+
+
+<form action="/Category/Edit" method="post">
+
+    <input type="hidden" name="Id" value="@Model.Id" />
+
+    <label>Name</label>
+    <input type="text" value="@Model.Name" name="Name" />
+
+    <label>Description</label>
+    <input type="text" value="@Model.Description" name="Description" />
+
+    <button type="submit" class="btn btn-primary">
+        Save Changes
+    </button>
+
+</form>

@@ -1,0 +1,49 @@
+﻿
+@model Order
+
+<form action="/Order/Edit" method="post">
+
+    @Html.AntiForgeryToken()
+
+    <input type="hidden" name="Id" value="@Model.Id" />
+
+    <label>Customer Name</label>
+    <input type="text" name="CustomerName"
+           value="@Model.CustomerName" />
+
+    <label>Order Date</label>
+    <input type="date" name="OrderDate"
+           value="@Model.OrderDate" />
+
+    <label>Total Price</label>
+    <input type="number" step="0.01" name="TotalPrice"
+           value="@Model.TotalPrice" />
+
+    <label>Status</label>
+    <input type="text" name="Status"
+           value="@Model.status" />
+
+    <label>Employee</label>
+    <select name="EmployeeId">
+        @foreach (var employee in ViewBag.Employees)
+        {
+            if (employee.Id == Model.EmployeeId)
+            {
+                <option value="@employee.Id" selected>
+                    @employee.FullName
+                </option>
+            }
+            else
+            {
+                <option value="@employee.Id">
+                    @employee.FullName
+                </option>
+            }
+        }
+    </select>
+
+    <button type="submit" class="btn btn-primary">
+        Save Changes
+    </button>
+
+</form>

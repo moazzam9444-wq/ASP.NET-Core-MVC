@@ -1,0 +1,52 @@
+﻿
+@model List<Order>
+
+<h2>Orders</h2>
+
+<a href="/Order/Create" class="btn btn-primary">Add Order</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Customer Name</th>
+            <th>Order Date</th>
+            <th>Total Price</th>
+            <th>Status</th>
+            <th>Employee Id</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.CustomerName</td>
+                <td>@item.OrderDate</td>
+                <td>@item.TotalPrice</td>
+                <td>@item.status</td>
+                <td>@item.EmployeeId</td>
+                <td>
+                    <a href="/Order/Edit/@item.Id"
+                       class="btn btn-primary">Edit</a>
+
+                    <a href="/Order/Details/@item.Id"
+                       class="btn btn-success">Details</a>
+
+                    <form action="/Order/Delete" method="post"
+                          class="d-inline"
+                          onsubmit="return confirm('Are you sure?')">
+
+                        @Html.AntiForgeryToken()
+
+                        <input type="hidden" name="Id" value="@item.Id" />
+
+                        <button type="submit" class="btn btn-danger">
+                            Delete
+                        </button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

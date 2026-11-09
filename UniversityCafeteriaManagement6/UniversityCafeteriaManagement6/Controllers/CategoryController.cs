@@ -14,9 +14,10 @@ namespace UniversityCafeteriaManagement6.Controllers
         }
         public IActionResult Index()
         {
-            var category = _context.Categories.ToList();
+            var categories = _context.Categories.ToList();
+            ViewBag.Products = _context.Products.ToList();
 
-            return View(category);
+            return View(categories);
         }
 
         [HttpGet]
@@ -32,5 +33,49 @@ namespace UniversityCafeteriaManagement6.Controllers
             _context.SaveChanges();
             return RedirectToAction("Index","Category");
         }
+        [HttpGet]
+        public IActionResult Edit(int Id)
+        {
+            var category= _context.Categories.Find(Id);
+            if (category == null)
+            {
+                return NotFound();
+            }
+
+            return View(category);
+        }
+
+        [HttpPost]
+        public IActionResult Edit(Category category)
+        {
+            _context.Categories.Update(category);
+            _context.SaveChanges();
+
+            return RedirectToAction("Index");
+        }
+
+        [HttpGet]
+        public IActionResult Delete(int Id)
+        {
+            var deleted= _context.Categories.Find(Id);
+
+            if (deleted == null)
+            {
+                return NotFound();
+            }
+            _context.Categories.Remove(deleted);
+            
+            _context.SaveChanges();
+            return RedirectToAction("Index");
+        }
+
+        [HttpGet] 
+        public IActionResult Deteils(int Id)
+        {
+            var categories = _context.Categories.Find(Id);
+
+            return View(categories);
+        }
+
     }
 }

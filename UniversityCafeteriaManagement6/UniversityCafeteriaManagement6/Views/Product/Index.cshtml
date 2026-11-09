@@ -1,32 +1,67 @@
-﻿@model List<Product>
+﻿
+@model List<Product>
 
-<div class="container mt-5">
-    <h2>Products List</h2>
+<h2>Products</h2>
 
-    <table class="table table-bordered table-striped">
-        <thead class="table-dark">
+<a href="/Product/Create" class="btn btn-primary mb-3">
+    Add New Product
+</a>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Quantity</th>
+            <th>Category</th>
+            <th>Supplier</th>
+            <th>Stock</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
             <tr>
-                
-                <th>Name</th>
-                <th>Price</th>
-                <th>Quantity</th>
-                <th>Category ID</th>
-                <th>Supplier ID</th>
-            </tr>
-        </thead>
+                <td>@item.Name</td>
+                <td>@item.Price</td>
+                <td>@item.Quantity</td>
+                <td>@item.Category?.Name</td>
+                <td>@item.Supplier?.Name</td>
 
-        <tbody>
-            @foreach (var item in Model)
-            {
-                <tr>
-                    
-                    <td>@item.Name</td>
-                    <td>@item.Price</td>
-                    <td>@item.Quantity</td>
-                    <td>@item.CategoryId</td>
-                    <td>@item.SupplierId</td>
-                </tr>
-            }
-        </tbody>
-    </table>
-</div>
+                <td>
+                    @if (item.Quantity < 5)
+                    {
+                        <span class="text-danger">Low Stock</span>
+                    }
+                    else
+                    {
+                        <span class="text-success">Available</span>
+                    }
+                </td>
+
+                <td>
+                    <a href="/Product/Edit/@item.Id"
+                       class="btn btn-primary btn-sm">Edit</a>
+
+                    <a href="/Product/Details/@item.Id"
+                       class="btn btn-success btn-sm">Details</a>
+
+                    <form action="/Product/Delete" method="post"
+                          class="d-inline"
+                          onsubmit="return confirm('Are you sure?')">
+
+                        @Html.AntiForgeryToken()
+
+                        <input type="hidden" name="Id" value="@item.Id" />
+
+                        <button type="submit" class="btn btn-danger btn-sm">
+                            Delete
+                        </button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,57 @@
+﻿
+@model List<Employee>
+
+<h2>Employees</h2>
+
+<a href="/Employee/Create" class="btn btn-primary">Add Employee</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Phone</th>
+            <th>Email</th>
+            <th>Position</th>
+            <th>Salary</th>
+            <th>Orders Count</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.FullName</td>
+                <td>@item.Phone</td>
+                <td>@item.Email</td>
+                <td>@item.Position</td>
+                <td>@item.Salary</td>
+                <td>
+                    @(((List<Order>)ViewBag.Orders)
+                        .Count(o => o.EmployeeId == item.Id))
+                </td>
+                <td>
+                    <a href="/Employee/Edit/@item.Id"
+                       class="btn btn-primary">Edit</a>
+
+                    <a href="/Employee/Details/@item.Id"
+                       class="btn btn-success">Details</a>
+
+                    <form action="/Employee/Delete" method="post"
+                          class="d-inline"
+                          onsubmit="return confirm('Are you sure?')">
+
+                        @Html.AntiForgeryToken()
+
+                        <input type="hidden" name="Id" value="@item.Id" />
+
+                        <button type="submit" class="btn btn-danger">
+                            Delete
+                        </button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

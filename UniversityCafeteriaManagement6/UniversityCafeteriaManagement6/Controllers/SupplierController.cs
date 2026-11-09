@@ -14,8 +14,10 @@ namespace UniversityCafeteriaManagement6.Controllers
         }
         public IActionResult Index()
         {
-            var Suppliers = _context.Suppliers.ToList();
-            return View(Suppliers);
+            var suppliers = _context.Suppliers.ToList();
+            ViewBag.Products = _context.Products.ToList();
+
+            return View(suppliers);
         }
 
         [HttpGet]
@@ -29,7 +31,46 @@ namespace UniversityCafeteriaManagement6.Controllers
         {
             _context.Suppliers.Add(supplier);
             _context.SaveChanges();
-            return RedirectToAction("Index","Supplier");
+            return RedirectToAction("Index", "Supplier");
         }
+
+        [HttpGet]
+        public IActionResult Edit(int Id)
+        {
+            var supllier = _context.Suppliers.Find(Id);
+            return View(supllier);
+        }
+
+        [HttpPost]
+
+        public IActionResult Edit(Supplier supplier)
+        {
+            _context.Suppliers.Update(supplier);
+            _context.SaveChanges();
+            return RedirectToAction("Index");
+        }
+
+        [HttpGet]
+        public ActionResult Deteils(int Id)
+        {
+            var supplier = _context.Suppliers.Find(Id);
+            return View(supplier);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Delete(int Id)
+        {
+            var deleted = _context.Suppliers.Find(Id);
+            if (deleted == null)
+            {
+                return NotFound();
+            }
+            _context.Suppliers.Remove(deleted);
+            _context.SaveChanges();
+            return RedirectToAction("Index");
+
+        }
+
     }
 }

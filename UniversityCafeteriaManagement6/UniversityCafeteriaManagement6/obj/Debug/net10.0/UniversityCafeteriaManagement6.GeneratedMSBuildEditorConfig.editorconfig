@@ -35,8 +35,32 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/USER/Desktop/ASP.NET-Core-MVC/UniversityCafeteriaManagement6/UniversityCafeteriaManagement6/Views/Category/Deteils.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGV0ZWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/ASP.NET-Core-MVC/UniversityCafeteriaManagement6/UniversityCafeteriaManagement6/Views/Category/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/USER/Desktop/ASP.NET-Core-MVC/UniversityCafeteriaManagement6/UniversityCafeteriaManagement6/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/ASP.NET-Core-MVC/UniversityCafeteriaManagement6/UniversityCafeteriaManagement6/Views/Employee/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/ASP.NET-Core-MVC/UniversityCafeteriaManagement6/UniversityCafeteriaManagement6/Views/Employee/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/ASP.NET-Core-MVC/UniversityCafeteriaManagement6/UniversityCafeteriaManagement6/Views/Employee/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/ASP.NET-Core-MVC/UniversityCafeteriaManagement6/UniversityCafeteriaManagement6/Views/Employee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/USER/Desktop/ASP.NET-Core-MVC/UniversityCafeteriaManagement6/UniversityCafeteriaManagement6/Views/Home/Index.cshtml]
@@ -47,8 +71,32 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/USER/Desktop/ASP.NET-Core-MVC/UniversityCafeteriaManagement6/UniversityCafeteriaManagement6/Views/Order/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/ASP.NET-Core-MVC/UniversityCafeteriaManagement6/UniversityCafeteriaManagement6/Views/Order/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/ASP.NET-Core-MVC/UniversityCafeteriaManagement6/UniversityCafeteriaManagement6/Views/Order/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/ASP.NET-Core-MVC/UniversityCafeteriaManagement6/UniversityCafeteriaManagement6/Views/Order/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/USER/Desktop/ASP.NET-Core-MVC/UniversityCafeteriaManagement6/UniversityCafeteriaManagement6/Views/Product/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/ASP.NET-Core-MVC/UniversityCafeteriaManagement6/UniversityCafeteriaManagement6/Views/Product/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/ASP.NET-Core-MVC/UniversityCafeteriaManagement6/UniversityCafeteriaManagement6/Views/Product/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/USER/Desktop/ASP.NET-Core-MVC/UniversityCafeteriaManagement6/UniversityCafeteriaManagement6/Views/Product/Index.cshtml]
@@ -65,6 +113,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/USER/Desktop/ASP.NET-Core-MVC/UniversityCafeteriaManagement6/UniversityCafeteriaManagement6/Views/Supplier/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/ASP.NET-Core-MVC/UniversityCafeteriaManagement6/UniversityCafeteriaManagement6/Views/Supplier/Deteils.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcRGV0ZWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Desktop/ASP.NET-Core-MVC/UniversityCafeteriaManagement6/UniversityCafeteriaManagement6/Views/Supplier/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/USER/Desktop/ASP.NET-Core-MVC/UniversityCafeteriaManagement6/UniversityCafeteriaManagement6/Views/Supplier/Index.cshtml]

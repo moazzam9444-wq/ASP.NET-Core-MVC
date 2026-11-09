@@ -6,8 +6,11 @@
 <table class="table">
     <thead>
         <tr>
+
             <th scope="col">Name</th>
             <th scope="col">Description</th>
+            <th scope="col">Action</th>
+            <th>Products Count</th>
         </tr>
     </thead>
     <tbody>
@@ -16,8 +19,29 @@
             <tr>
                 <td>@item.Name</td>
                 <td>@item.Description</td>
+                <td>
+                    <a asp-controller="Category" asp-action="Edit" asp-route-id="@item.Id" class="btn btn-primary" >Edit</a>
+                    <a asp-controller="Category" asp-action="Deteils" asp-route-id="@item.Id" class="btn btn-success">Deteils</a>
+                    <form action="/Category/Delete" method="post"
+                          onsubmit="return confirm('Are you sure?')" class="d-inline">
+
+                        @Html.AntiForgeryToken()
+
+                        <input type="hidden" name="Id" value="@item.Id" />
+
+                        <button type="submit" class="btn btn-danger ">
+                            Delete
+                        </button>
+
+                    </form>
+                </td>
+                <td>
+    @(((List<Product>)ViewBag.Products)
+        .Count(p => p.CategoryId == item.Id))
+</td>
             </tr>
         }
+
 
     </tbody>
 </table>
