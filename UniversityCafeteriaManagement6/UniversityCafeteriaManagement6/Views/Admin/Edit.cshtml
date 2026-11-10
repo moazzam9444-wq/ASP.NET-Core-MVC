@@ -1,0 +1,45 @@
+﻿
+@model UniversityCafeteriaManagement6.Data.ApplicationUser
+
+<h2>Change User Role</h2>
+
+<div class="card p-4">
+    <div asp-validation-summary="All"
+         class="text-danger"></div>
+
+    <p><strong>Name:</strong> @Model.FullName</p>
+    <p><strong>Email:</strong> @Model.Email</p>
+
+    <form asp-action="Edit"
+          asp-route-id="@Model.Id"
+          method="post">
+
+        @Html.AntiForgeryToken()
+
+        <div class="mb-3">
+            <label class="form-label">Select Role</label>
+
+            <select name="role" class="form-select">
+                @foreach (var role in new[] { "User", "Admin", "SuperAdmin" })
+                {
+                    if (role == (string)ViewBag.CurrentRole)
+                    {
+                        <option value="@role" selected>@role</option>
+                    }
+                    else
+                    {
+                        <option value="@role">@role</option>
+                    }
+                }
+            </select>
+        </div>
+
+        <button type="submit" class="btn btn-success">
+            Save Role
+        </button>
+
+        <a asp-action="Index" class="btn btn-secondary">
+            Cancel
+        </a>
+    </form>
+</div>

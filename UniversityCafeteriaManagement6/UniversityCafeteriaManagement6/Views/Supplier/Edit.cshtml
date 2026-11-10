@@ -1,20 +1,50 @@
-﻿@model Supplier
+﻿
+@model UniversityCafeteriaManagement6.Models.Supplier
 
-<form action="/Supplier/Edit" method="post">
+@{
+    ViewData["Title"] = "Add Supplier";
+}
 
-    <input type="hidden" name="Id" value="@Model.Id" />
+<h2 class="mb-4">Add New Supplier</h2>
 
-    <label>Name</label>
-    <input type="text" value="@Model.Name" name="Name" />
+<form asp-controller="Supplier"
+      asp-action="Create"
+      method="post">
 
-    <label>Description</label>
-    <input type="text" value="@Model.Email" name="Email" />
+    @Html.AntiForgeryToken()
 
-    <label>Phone</label>
-    <input type="text" value="@Model.Phone" name="Phone" />
+    <div asp-validation-summary="All"
+         class="text-danger"></div>
 
-    <button type="submit" class="btn btn-primary">
-        Save Changes
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Phone" class="form-label"></label>
+        <input asp-for="Phone" class="form-control" />
+        <span asp-validation-for="Phone" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Email" class="form-label"></label>
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+
+    
+
+    <button type="submit" class="btn btn-success">
+        Save Supplier
     </button>
 
+    <a asp-action="Index" class="btn btn-secondary">
+        Back
+    </a>
 </form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

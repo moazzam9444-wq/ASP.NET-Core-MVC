@@ -1,0 +1,56 @@
+﻿
+@using UniversityCafeteriaManagement6.Models
+@model SupplyRequest
+
+<h2>Edit Supply Request #@Model.Id</h2>
+
+<form asp-action="Edit"
+      asp-route-id="@Model.Id"
+      method="post">
+
+    @Html.AntiForgeryToken()
+
+    <div asp-validation-summary="All"
+         class="text-danger"></div>
+
+    <div class="mb-3">
+        <label class="form-label">Product</label>
+
+        <select name="productId" class="form-select" required>
+            @foreach (Product product in ViewBag.Products)
+            {
+                if (product.Id == (int)ViewBag.ProductId)
+                {
+                    <option value="@product.Id" selected>
+                        @product.Name - @product.Price JD
+                    </option>
+                }
+                else
+                {
+                    <option value="@product.Id">
+                        @product.Name - @product.Price JD
+                    </option>
+                }
+            }
+        </select>
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Quantity</label>
+
+        <input type="number"
+               name="quantity"
+               value="@ViewBag.Quantity"
+               min="1"
+               class="form-control"
+               required />
+    </div>
+
+    <button type="submit" class="btn btn-success">
+        Save Changes
+    </button>
+
+    <a asp-action="Index" class="btn btn-secondary">
+        Cancel
+    </a>
+</form>

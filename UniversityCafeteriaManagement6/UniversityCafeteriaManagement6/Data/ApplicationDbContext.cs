@@ -1,9 +1,10 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using UniversityCafeteriaManagement6.Models;
 
 namespace UniversityCafeteriaManagement6.Data
 {
-    public class ApplicationDbContext : DbContext
+    public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             : base(options)
@@ -16,5 +17,8 @@ namespace UniversityCafeteriaManagement6.Data
 
         public DbSet<Employee> Employees { get; set; }
         public DbSet<Order> Orders { get; set; }
+
+        public DbSet<SupplyRequest> SupplyRequests { get; set; }
+        public DbSet<RequestItem> RequestItems { get; set; }
     }
 }

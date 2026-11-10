@@ -1,0 +1,47 @@
+﻿
+@model UniversityCafeteriaManagement6.Models.SupplyRequest
+
+<h2>Request Details</h2>
+
+<div class="card p-3 mb-4">
+    <p><strong>Request ID:</strong> @Model.Id</p>
+    <p><strong>Employee:</strong> @Model.User?.FullName</p>
+    <p><strong>Date:</strong> @Model.RequestDate</p>
+    <p><strong>Status:</strong> @Model.Status</p>
+    <p><strong>Total:</strong> @Model.TotalPrice JD</p>
+</div>
+
+<h4>Requested Products</h4>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Product</th>
+            <th>Quantity</th>
+            <th>Unit Price</th>
+            <th>Total</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.RequestItems)
+        {
+            <tr>
+                <td>@item.Product?.Name</td>
+                <td>@item.Quantity</td>
+                <td>@item.Price JD</td>
+                <td>@(item.Quantity * item.Price) JD</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Index" class="btn btn-secondary">
+    My Requests
+</a>
+
+@if (User.IsInRole("Admin") || User.IsInRole("SuperAdmin"))
+{
+    <a asp-action="AllRequests" class="btn btn-primary">
+        All Requests
+    </a>
+}

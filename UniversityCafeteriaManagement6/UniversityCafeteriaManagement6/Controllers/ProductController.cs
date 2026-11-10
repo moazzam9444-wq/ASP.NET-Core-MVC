@@ -1,11 +1,13 @@
 ﻿
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.EntityFrameworkCore;
 using UniversityCafeteriaManagement6.Data;
 using UniversityCafeteriaManagement6.Models;
 
 namespace UniversityCafeteriaManagement6.Controllers
 {
+    [Authorize]
     public class ProductController : Controller
     {
         private readonly ApplicationDbContext _context;
@@ -15,6 +17,7 @@ namespace UniversityCafeteriaManagement6.Controllers
             _context = context;
         }
 
+        // All logged-in users
         public IActionResult Index()
         {
             var products = _context.Products
@@ -25,6 +28,8 @@ namespace UniversityCafeteriaManagement6.Controllers
             return View(products);
         }
 
+        // Admin & SuperAdmin only
+        [Authorize(Roles = "Admin,SuperAdmin")]
         [HttpGet]
         public IActionResult Create()
         {
@@ -34,6 +39,8 @@ namespace UniversityCafeteriaManagement6.Controllers
             return View();
         }
 
+        // Admin & SuperAdmin only
+        [Authorize(Roles = "Admin,SuperAdmin")]
         [HttpPost]
         [ValidateAntiForgeryToken]
         public IActionResult Create(Product product)
@@ -44,6 +51,8 @@ namespace UniversityCafeteriaManagement6.Controllers
             return RedirectToAction("Index");
         }
 
+        // Admin & SuperAdmin only
+        [Authorize(Roles = "Admin,SuperAdmin")]
         [HttpGet]
         public IActionResult Edit(int Id)
         {
@@ -60,6 +69,8 @@ namespace UniversityCafeteriaManagement6.Controllers
             return View(product);
         }
 
+        // Admin & SuperAdmin only
+        [Authorize(Roles = "Admin,SuperAdmin")]
         [HttpPost]
         [ValidateAntiForgeryToken]
         public IActionResult Edit(Product product)
@@ -83,6 +94,7 @@ namespace UniversityCafeteriaManagement6.Controllers
             return RedirectToAction("Index");
         }
 
+        // All logged-in users
         [HttpGet]
         public IActionResult Details(int Id)
         {
@@ -99,6 +111,8 @@ namespace UniversityCafeteriaManagement6.Controllers
             return View(product);
         }
 
+        // Admin & SuperAdmin only
+        [Authorize(Roles = "Admin,SuperAdmin")]
         [HttpPost]
         [ValidateAntiForgeryToken]
         public IActionResult Delete(int Id)

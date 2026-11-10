@@ -1,0 +1,57 @@
+﻿@model List<UniversityCafeteriaManagement6.Models.SupplyRequest>
+
+<h2>My Supply Requests</h2>
+
+<a asp-action="Create" class="btn btn-primary mb-3">
+    Create Request
+</a>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Date</th>
+            <th>Total</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var request in Model)
+        {
+            <tr>
+                <td>@request.Id</td>
+                <td>@request.RequestDate.ToShortDateString()</td>
+                <td>@request.TotalPrice JD</td>
+                <td>@request.Status</td>
+                <td>
+                    <a asp-action="Details"
+                       asp-route-id="@request.Id"
+                       class="btn btn-info btn-sm">
+                        Details
+                    </a>
+
+                    @if (request.Status == "Pending")
+                    {
+                        <a asp-action="Edit"
+                           asp-route-id="@request.Id"
+                           class="btn btn-warning btn-sm">
+                            Edit
+                        </a>
+
+                        <form asp-action="Delete"
+                              asp-route-id="@request.Id"
+                              method="post"
+                              class="d-inline"
+                              onsubmit="return confirm('Delete this request?');">
+                            @Html.AntiForgeryToken()
+                            <button class="btn btn-danger btn-sm">
+                                Delete
+                            </button>
+                        </form>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

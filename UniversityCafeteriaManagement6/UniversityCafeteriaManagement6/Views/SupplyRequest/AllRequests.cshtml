@@ -1,0 +1,58 @@
+﻿@model List<UniversityCafeteriaManagement6.Models.SupplyRequest>
+
+<h2>All Supply Requests</h2>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Employee</th>
+            <th>Date</th>
+            <th>Total</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var request in Model)
+        {
+            <tr>
+                <td>@request.Id</td>
+                <td>@request.User?.FullName</td>
+                <td>@request.RequestDate.ToShortDateString()</td>
+                <td>@request.TotalPrice JD</td>
+                <td>@request.Status</td>
+                <td>
+                    <a asp-action="Details"
+                       asp-route-id="@request.Id"
+                       class="btn btn-info btn-sm">
+                        Details
+                    </a>
+
+                    @if (request.Status == "Pending")
+                    {
+                        <form asp-action="Approve"
+                              asp-route-id="@request.Id"
+                              method="post"
+                              class="d-inline">
+                            @Html.AntiForgeryToken()
+                            <button class="btn btn-success btn-sm">
+                                Approve
+                            </button>
+                        </form>
+
+                        <form asp-action="Reject"
+                              asp-route-id="@request.Id"
+                              method="post"
+                              class="d-inline">
+                            @Html.AntiForgeryToken()
+                            <button class="btn btn-danger btn-sm">
+                                Reject
+                            </button>
+                        </form>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

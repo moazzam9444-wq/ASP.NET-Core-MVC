@@ -3,44 +3,92 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\universitycafeteriamanagement6\\universitycafeteriamanagement6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|solutionrelative:universitycafeteriamanagement6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\universitycafeteriamanagement6\\universitycafeteriamanagement6\\views\\supplier\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|solutionrelative:universitycafeteriamanagement6\\views\\supplier\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\universitycafeteriamanagement6\\universitycafeteriamanagement6\\views\\supplier\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|solutionrelative:universitycafeteriamanagement6\\views\\supplier\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\universitycafeteriamanagement6\\universitycafeteriamanagement6\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|solutionrelative:universitycafeteriamanagement6\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\universitycafeteriamanagement6\\universitycafeteriamanagement6\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|solutionrelative:universitycafeteriamanagement6\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\universitycafeteriamanagement6\\universitycafeteriamanagement6\\views\\supplier\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|solutionrelative:universitycafeteriamanagement6\\views\\supplier\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\universitycafeteriamanagement6\\universitycafeteriamanagement6\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|solutionrelative:universitycafeteriamanagement6\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\universitycafeteriamanagement6\\universitycafeteriamanagement6\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|solutionrelative:universitycafeteriamanagement6\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\universitycafeteriamanagement6\\universitycafeteriamanagement6\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|solutionrelative:universitycafeteriamanagement6\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\universitycafeteriamanagement6\\universitycafeteriamanagement6\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|solutionrelative:universitycafeteriamanagement6\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\universitycafeteriamanagement6\\universitycafeteriamanagement6\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|solutionrelative:universitycafeteriamanagement6\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\universitycafeteriamanagement6\\universitycafeteriamanagement6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|solutionrelative:universitycafeteriamanagement6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\universitycafeteriamanagement6\\universitycafeteriamanagement6\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|solutionrelative:universitycafeteriamanagement6\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\universitycafeteriamanagement6\\universitycafeteriamanagement6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|solutionrelative:universitycafeteriamanagement6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\universitycafeteriamanagement6\\universitycafeteriamanagement6\\views\\order\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|solutionrelative:universitycafeteriamanagement6\\views\\order\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\universitycafeteriamanagement6\\universitycafeteriamanagement6\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|solutionrelative:universitycafeteriamanagement6\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\universitycafeteriamanagement6\\universitycafeteriamanagement6\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|solutionrelative:universitycafeteriamanagement6\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\universitycafeteriamanagement6\\universitycafeteriamanagement6\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|solutionrelative:universitycafeteriamanagement6\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\universitycafeteriamanagement6\\universitycafeteriamanagement6\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|solutionrelative:universitycafeteriamanagement6\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\universitycafeteriamanagement6\\universitycafeteriamanagement6\\views\\supplyrequest\\allrequests.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|solutionrelative:universitycafeteriamanagement6\\views\\supplyrequest\\allrequests.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\universitycafeteriamanagement6\\universitycafeteriamanagement6\\views\\supplyrequest\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|solutionrelative:universitycafeteriamanagement6\\views\\supplyrequest\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\universitycafeteriamanagement6\\universitycafeteriamanagement6\\views\\supplyrequest\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|solutionrelative:universitycafeteriamanagement6\\views\\supplyrequest\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\universitycafeteriamanagement6\\universitycafeteriamanagement6\\views\\supplyrequest\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|solutionrelative:universitycafeteriamanagement6\\views\\supplyrequest\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\universitycafeteriamanagement6\\universitycafeteriamanagement6\\controllers\\supplyrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|solutionrelative:universitycafeteriamanagement6\\controllers\\supplyrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\universitycafeteriamanagement6\\universitycafeteriamanagement6\\views\\supplyrequest\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|solutionrelative:universitycafeteriamanagement6\\views\\supplyrequest\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\universitycafeteriamanagement6\\universitycafeteriamanagement6\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|solutionrelative:universitycafeteriamanagement6\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\universitycafeteriamanagement6\\universitycafeteriamanagement6\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|solutionrelative:universitycafeteriamanagement6\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\universitycafeteriamanagement6\\universitycafeteriamanagement6\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|solutionrelative:universitycafeteriamanagement6\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\universitycafeteriamanagement6\\universitycafeteriamanagement6\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|solutionrelative:universitycafeteriamanagement6\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\universitycafeteriamanagement6\\universitycafeteriamanagement6\\migrations\\20261110175328_addfullnametoapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|solutionrelative:universitycafeteriamanagement6\\migrations\\20261110175328_addfullnametoapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|c:\\users\\user\\desktop\\asp.net-core-mvc\\universitycafeteriamanagement6\\universitycafeteriamanagement6\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D35F14F-E13C-BACA-0A91-9BFB2956C1A2}|UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6.csproj|solutionrelative:universitycafeteriamanagement6\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,131 +107,287 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "UniversityCafeteriaManagement6\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "UniversityCafeteriaManagement6\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAqwCoAAAAJAAAAAAAAAA==",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Views\\Supplier\\Edit.cshtml",
+              "RelativeDocumentMoniker": "UniversityCafeteriaManagement6\\Views\\Supplier\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Views\\Supplier\\Edit.cshtml",
+              "RelativeToolTip": "UniversityCafeteriaManagement6\\Views\\Supplier\\Edit.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwCQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-09T17:57:19.543Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Views\\Supplier\\Index.cshtml",
-              "RelativeDocumentMoniker": "UniversityCafeteriaManagement6\\Views\\Supplier\\Index.cshtml",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Views\\Supplier\\Index.cshtml",
-              "RelativeToolTip": "UniversityCafeteriaManagement6\\Views\\Supplier\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-09T17:56:03.628Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SupplierController.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Controllers\\SupplierController.cs",
-              "RelativeDocumentMoniker": "UniversityCafeteriaManagement6\\Controllers\\SupplierController.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Controllers\\SupplierController.cs",
-              "RelativeToolTip": "UniversityCafeteriaManagement6\\Controllers\\SupplierController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-09T17:55:42.028Z",
+              "WhenOpened": "2026-11-10T18:58:53.21Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "UniversityCafeteriaManagement6\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "UniversityCafeteriaManagement6\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACgAAAAFAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "UniversityCafeteriaManagement6\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "UniversityCafeteriaManagement6\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-09T17:54:49.465Z",
+              "WhenOpened": "2026-11-10T18:57:59.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Views\\Supplier\\Index.cshtml",
+              "RelativeDocumentMoniker": "UniversityCafeteriaManagement6\\Views\\Supplier\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Views\\Supplier\\Index.cshtml",
+              "RelativeToolTip": "UniversityCafeteriaManagement6\\Views\\Supplier\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-10T18:57:13.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SupplierController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Controllers\\SupplierController.cs",
+              "RelativeDocumentMoniker": "UniversityCafeteriaManagement6\\Controllers\\SupplierController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Controllers\\SupplierController.cs",
+              "RelativeToolTip": "UniversityCafeteriaManagement6\\Controllers\\SupplierController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAxwEIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T18:55:30.809Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "UniversityCafeteriaManagement6\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "UniversityCafeteriaManagement6\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "UniversityCafeteriaManagement6\\Models\\Supplier.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Models\\Supplier.cs",
+              "RelativeToolTip": "UniversityCafeteriaManagement6\\Models\\Supplier.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-09T17:54:19.653Z",
+              "WhenOpened": "2026-11-10T18:55:26.452Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Views\\Order\\Details.cshtml",
-              "RelativeDocumentMoniker": "UniversityCafeteriaManagement6\\Views\\Order\\Details.cshtml",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Views\\Order\\Details.cshtml",
-              "RelativeToolTip": "UniversityCafeteriaManagement6\\Views\\Order\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "UniversityCafeteriaManagement6\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "UniversityCafeteriaManagement6\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAALsAAAAAAAAAAADwv9cAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-09T17:46:26.261Z",
+              "WhenOpened": "2026-11-10T18:51:12.909Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Views\\Order\\Edit.cshtml",
-              "RelativeDocumentMoniker": "UniversityCafeteriaManagement6\\Views\\Order\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Views\\Order\\Edit.cshtml",
-              "RelativeToolTip": "UniversityCafeteriaManagement6\\Views\\Order\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Views\\Admin\\Edit.cshtml",
+              "RelativeDocumentMoniker": "UniversityCafeteriaManagement6\\Views\\Admin\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Views\\Admin\\Edit.cshtml",
+              "RelativeToolTip": "UniversityCafeteriaManagement6\\Views\\Admin\\Edit.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvy0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-09T17:46:12.012Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Views\\Order\\Create.cshtml",
-              "RelativeDocumentMoniker": "UniversityCafeteriaManagement6\\Views\\Order\\Create.cshtml",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Views\\Order\\Create.cshtml",
-              "RelativeToolTip": "UniversityCafeteriaManagement6\\Views\\Order\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-09T17:45:57.313Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Views\\Order\\Index.cshtml",
-              "RelativeDocumentMoniker": "UniversityCafeteriaManagement6\\Views\\Order\\Index.cshtml",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Views\\Order\\Index.cshtml",
-              "RelativeToolTip": "UniversityCafeteriaManagement6\\Views\\Order\\Index.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAABoAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-09T17:45:45.33Z",
+              "WhenOpened": "2026-11-10T18:48:51.211Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "UniversityCafeteriaManagement6\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Models\\Order.cs",
-              "RelativeToolTip": "UniversityCafeteriaManagement6\\Models\\Order.cs",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "UniversityCafeteriaManagement6\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "UniversityCafeteriaManagement6\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAADwvzYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-10T18:48:33.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "UniversityCafeteriaManagement6\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "UniversityCafeteriaManagement6\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T18:46:39.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Program.cs",
+              "RelativeDocumentMoniker": "UniversityCafeteriaManagement6\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Program.cs",
+              "RelativeToolTip": "UniversityCafeteriaManagement6\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAswFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T17:49:45.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Views\\SupplyRequest\\Edit.cshtml",
+              "RelativeDocumentMoniker": "UniversityCafeteriaManagement6\\Views\\SupplyRequest\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Views\\SupplyRequest\\Edit.cshtml",
+              "RelativeToolTip": "UniversityCafeteriaManagement6\\Views\\SupplyRequest\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-10T18:46:04.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Views\\SupplyRequest\\Details.cshtml",
+              "RelativeDocumentMoniker": "UniversityCafeteriaManagement6\\Views\\SupplyRequest\\Details.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Views\\SupplyRequest\\Details.cshtml",
+              "RelativeToolTip": "UniversityCafeteriaManagement6\\Views\\SupplyRequest\\Details.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvy8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-10T18:45:50.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AllRequests.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Views\\SupplyRequest\\AllRequests.cshtml",
+              "RelativeDocumentMoniker": "UniversityCafeteriaManagement6\\Views\\SupplyRequest\\AllRequests.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Views\\SupplyRequest\\AllRequests.cshtml",
+              "RelativeToolTip": "UniversityCafeteriaManagement6\\Views\\SupplyRequest\\AllRequests.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAswDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-10T18:41:24.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Views\\SupplyRequest\\Create.cshtml",
+              "RelativeDocumentMoniker": "UniversityCafeteriaManagement6\\Views\\SupplyRequest\\Create.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Views\\SupplyRequest\\Create.cshtml",
+              "RelativeToolTip": "UniversityCafeteriaManagement6\\Views\\SupplyRequest\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-10T18:36:35.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Views\\SupplyRequest\\Index.cshtml",
+              "RelativeDocumentMoniker": "UniversityCafeteriaManagement6\\Views\\SupplyRequest\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Views\\SupplyRequest\\Index.cshtml",
+              "RelativeToolTip": "UniversityCafeteriaManagement6\\Views\\SupplyRequest\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAswDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-10T18:33:55.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SupplyRequestController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Controllers\\SupplyRequestController.cs",
+              "RelativeDocumentMoniker": "UniversityCafeteriaManagement6\\Controllers\\SupplyRequestController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Controllers\\SupplyRequestController.cs",
+              "RelativeToolTip": "UniversityCafeteriaManagement6\\Controllers\\SupplyRequestController.cs",
+              "ViewState": "AgIAAP8AAAAAAAAAAAAwwB4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T18:33:08.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "UniversityCafeteriaManagement6\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "UniversityCafeteriaManagement6\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAQwIEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T18:31:57.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "UniversityCafeteriaManagement6\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "UniversityCafeteriaManagement6\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAANAAAAAAAAAAAAAYwMcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T17:58:03.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RegisterConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeDocumentMoniker": "UniversityCafeteriaManagement6\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeToolTip": "UniversityCafeteriaManagement6\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-10T17:56:04.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "UniversityCafeteriaManagement6\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "UniversityCafeteriaManagement6\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-10T17:54:50.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20261110175328_AddFullNameToApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Migrations\\20261110175328_AddFullNameToApplicationUser.cs",
+              "RelativeDocumentMoniker": "UniversityCafeteriaManagement6\\Migrations\\20261110175328_AddFullNameToApplicationUser.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Migrations\\20261110175328_AddFullNameToApplicationUser.cs",
+              "RelativeToolTip": "UniversityCafeteriaManagement6\\Migrations\\20261110175328_AddFullNameToApplicationUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-09T17:48:32.392Z",
+              "WhenOpened": "2026-11-10T17:53:28.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "UniversityCafeteriaManagement6\\Data\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\ASP.NET-Core-MVC\\UniversityCafeteriaManagement6\\UniversityCafeteriaManagement6\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "UniversityCafeteriaManagement6\\Data\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T17:53:05.024Z",
               "EditorCaption": ""
             }
           ]
